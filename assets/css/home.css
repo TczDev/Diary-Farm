@@ -73,7 +73,7 @@ h1{
     border-radius: 8px 8px 8px 8px;
 }
 
-.counter-section h1 i{
+.counter-section h1 .svg-inline--fa{
     color: var(--background-color);
 }
 
