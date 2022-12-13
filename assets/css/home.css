@@ -130,8 +130,8 @@ h1{
     text-align: center;
 }
 
-.serv-section-2-icon i {
-    color: var(--background-color);
+.serv-section-2-icon .svg-inline--fa {
+    color: var(--background-color) !important;
     font-size: 48px;
     line-height: 65px;
     transition: all 0.4s ease-in-out;
