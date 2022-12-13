@@ -74,7 +74,7 @@ h1{
 }
 
 .counter-section h1 .svg-inline--fa{
-    color: var(--background-color);
+    color: var(--background-color) !important;
 }
 
 
