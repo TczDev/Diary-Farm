@@ -153,7 +153,7 @@ h1{
     display: block;
     width: 100px;
     height: 3px;
-    background: var(--background-color);
+    background: var(--background-color) !important;
     border-radius: 25%;
     margin-top: 15px;
     margin-bottom: 5px;
@@ -169,7 +169,7 @@ h1{
 }
 
 .serv-section-2:hover:before {
-    background: var(--background-color);
+    background: var(--background-color) !important;
 }
 
 @media(max-width: 992px) {
