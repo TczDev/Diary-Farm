@@ -164,7 +164,7 @@ h1{
     padding-right: 50px;
 }
 
-.serv-section-2:hover .serv-section-2-icon i {
+.serv-section-2:hover .serv-section-2-icon .svg-inline--fa {
     color: #fff;
 }
 
