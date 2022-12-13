@@ -1,0 +1,7 @@
+.About{
+    background: var(--background-color) url(/assets/img/home-image-6.png);
+}
+
+.About p{
+    color: var(--bg-white);
+}

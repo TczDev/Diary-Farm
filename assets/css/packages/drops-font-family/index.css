@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Drops';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Drops'), url('./Drops.woff') format('woff');
+}

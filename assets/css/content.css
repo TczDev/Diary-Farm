@@ -1,0 +1,22 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.counter-section:after {
+    content: "";
+    background: url(../img/process_bg.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 296px;
+    width: 2000px;
+    margin-left: -49px;
+    position: absolute;
+
+}

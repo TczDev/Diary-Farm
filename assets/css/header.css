@@ -1,0 +1,32 @@
+
+.header{
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 90;
+    background: transparent;
+}
+
+
+.navbar-brand{
+    font-size: 30px !important;
+
+}
+.navbar-brand, .nav-link{
+
+    color: white !important;
+}
+
+.nav-link{
+    font-weight: 700 !important;
+}
+
+.text-dark h2{
+    font-weight: 100 !important;
+}
+
+.text-dark .nav-link{
+    color: black !important;
+    font-weight: 600 !important;
+}
